@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome！"
+title                    : "Guangxun Zhu/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Guangxun Zhu"
 description              : &description "personal description"
