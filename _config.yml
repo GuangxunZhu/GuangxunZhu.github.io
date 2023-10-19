@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome！"
 title_separator          : "-"
-name                     : &name "Guangxun Zhu(朱广勋）"
+name                     : &name "Guangxun Zhu"
 description              : &description "personal description"
 url                      : https://guangxunzhu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guangxun Zhu(朱广勋)"
+  name             : "Guangxun Zhu"
   avatar           : "photography720.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Changsha, China"
