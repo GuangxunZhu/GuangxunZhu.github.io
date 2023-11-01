@@ -1,14 +1,14 @@
 ---
 title: "Collect Information About Participants In Keirin Cycle Race"
 collection: projects
-type: "Joint project with Hong Kong Polytechnic"
+type: "Joint project with The Hong Kong Polytechnic University"
 permalink: /projects/keirin-cycle-race
 venue: "CASIA & Oejecteye"
 date: 2023-02-10
 location: "Beijing, China"
 ---
 
-The project aims to develop a Multi-camera multi-object tracking system to collect information about participants in keirin cycle race.
+The project aims to develop a Multi-camera multi-object tracking system to collect information about participants in the keirin cycle race.
 
 Introduction
 ======
