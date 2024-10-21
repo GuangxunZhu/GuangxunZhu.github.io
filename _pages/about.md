@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student at the School of Computing Science, University of Glasgow, UK, fully funded by the **China Scholarship Council (CSC)**. My supervisors are [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://www.gla.ac.uk/schools/computing/staff/hangdai/). 
+I am a first-year **Ph.D.** student at the School of Computing Science, University of Glasgow, UK, fully funded by the **China Scholarship Council (CSC)**. My supervisors are [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://www.gla.ac.uk/schools/computing/staff/hangdai/).
 
-My research interests focus on **human behavior prediction in autonomous driving**, particularly leveraging **multimodal data** to model **human-environment interactions** to enhance prediction capabilities. This work lies at the intersection of **machine learning**, **computer vision**, and **autonomous driving**.
+My research focuses on **human behavior prediction in autonomous driving**, using **multimodal data** to model **human-environment interactions** for improved predictions. This work sits at the intersection of **machine learning**, **computer vision**, and **autonomous driving**.
 
-I received my M.Eng in Mechanics from [Hunan University](http://www.hnu.edu.cn/), China, in 2024. My master’s thesis focused on **multi-camera multi-object tracking algorithm and its application in track cycling events**, which was a project during my exchange at the [Institute of Automation, Chinese Academy of Sciences(CASIA)](http://ia.cas.cn/). Prior to that, I earned my B.Eng. in Vehicle Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/), China, in 2021.
+I received my **M.Eng.** in Mechanics from [Hunan University](http://www.hnu.edu.cn/), China, in 2024, with a thesis on **multi-camera multi-object tracking** applied to track cycling events, developed during an exchange at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://ia.cas.cn/). I earned my **B.Eng.** in Vehicle Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/), China, in 2021.
 
-Yes, I thrive at the intersection of multiple disciplines!
+I thrive at the intersection of multiple disciplines!
+
 
 
 ---
