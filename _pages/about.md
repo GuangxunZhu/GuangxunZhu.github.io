@@ -18,10 +18,13 @@ I thrive at the intersection of multiple disciplines!
 
 
 
----
+<hr>
 
 ## Recent News
 
+2024-09-26
+
+I had a pleasant discussion with Dr. Edmond Shu-lim Ho and Dr. Hang Dai and officially joined Edmond's group as a Ph.D. student.
 
 
 
