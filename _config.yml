@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Guangxun Zhu 朱广勋"
   avatar           : "photography.png"
-  bio              : "Master's student at Hunan University"
-  location         : "Changsha, China"
+  bio              : "Ph.D. student at UofG"
+  location         : "Glasgow, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "zhugxun@hnu.edu.cn"
+  email            :  "g.zhu.1@research.gla.ac.uk"
+  UofG Webpage     :  "https://www.gla.ac.uk/pgrs/guangxunzhu/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

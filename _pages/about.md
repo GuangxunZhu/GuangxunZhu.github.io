@@ -8,14 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year graduate student at [Hunan University](http://www.hnu.edu.cn/) in Changsha, China, supervised by [Prof. Fengjun Chen](http://robotics.hnu.edu.cn/info/1071/1162.htm). My master's thesis focuses on researching cross-camera multi-object tracking algorithms and their applications in track cycling events. Before this, I obtained my bachelor's degree in Vehicle Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in Chengdu, China in 2021. In July 2022, I had the opportunity to work with [Prof. Jinqiao Wang](http://www.nlpr.ia.ac.cn/iva/homepage/jqwang/index.htm) and Prof. Chaoyang Zhao at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://ia.cas.cn/), where we explored multi-object tracking, multi-task learning, and re-identification.
+I am currently a first-year Ph.D. student at the School of Computing Science, University of Glasgow, UK, fully funded by the **China Scholarship Council (CSC)**. My supervisors are [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://www.gla.ac.uk/schools/computing/staff/hangdai/). 
 
-## Contact
+My research interests focus on **human behavior prediction in autonomous driving**, particularly leveraging **multimodal data** to model **human-environment interactions** to enhance prediction capabilities. This work lies at the intersection of **machine learning**, **computer vision**, and **autonomous driving**.
 
-E-mail: zhugxun@hnu.edu.cn; zhugxun@163.com; zhugxun@gmail.com
+I received my M.Eng in Mechanics from [Hunan University](http://www.hnu.edu.cn/), China, in 2024. My master’s thesis focused on **multi-camera multi-object tracking algorithm and its application in track cycling events**, which was a project during my exchange at the [Institute of Automation, Chinese Academy of Sciences(CASIA)](http://ia.cas.cn/). Prior to that, I earned my B.Eng. in Vehicle Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/), China, in 2021.
+
+Yes, I thrive at the intersection of multiple disciplines!
 
 
-## Education
+---
+
+## Recent News
+
+
+
+
+
+
+
+<!-- ## Education
 
 * ##### 2021.09–2024.06 (Expected): [Hunan University](http://www.hnu.edu.cn/) (985 Project) Changsha, China     
 
@@ -50,4 +62,4 @@ E-mail: zhugxun@hnu.edu.cn; zhugxun@163.com; zhugxun@gmail.com
 ### Honors
 * ##### Outstanding Graduates, Southwest Jiaotong University, 2021
 * ##### Merit Student, Southwest Jiaotong University, 2020
-* ##### Excellent Student Cadre, Southwest Jiaotong University, 2018&2019
+* ##### Excellent Student Cadre, Southwest Jiaotong University, 2018&2019 -->
