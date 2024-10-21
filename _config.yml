@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  "g.zhu.1@research.gla.ac.uk"
-  UofG Webpage     :  "https://www.gla.ac.uk/pgrs/guangxunzhu/"
+  uofg_webpage     :  "https://www.gla.ac.uk/pgrs/guangxunzhu/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
