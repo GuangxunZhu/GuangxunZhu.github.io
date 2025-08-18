@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year **Ph.D.** student at the School of Computing Science, University of Glasgow, UK, fully funded by the **China Scholarship Council (CSC)**. My supervisors are [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://www.gla.ac.uk/schools/computing/staff/hangdai/).
+I am a second-year **Ph.D.** student at the School of Computing Science, University of Glasgow, UK, fully funded by the **China Scholarship Council (CSC)**. My primary supervisor is [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/), with [Dr. Chongfeng Wei](https://www.gla.ac.uk/schools/engineering/staff/chongfengwei/) and [Dr. Nicolas Pugeault](https://www.gla.ac.uk/schools/computing/staff/nicolaspugeault/) as secondary supervisors, and [Dr. Hang Dai](https://dai-hang.github.io) as my external supervisor.
+
+
+
 
 My research focuses on **human behavior prediction in autonomous driving**, using **multimodal data** to model **human-environment interactions** for improved predictions. This work sits at the intersection of **machine learning**, **computer vision**, and **autonomous driving**.
 
-I received my **M.Eng.** in Mechanics from [Hunan University](http://www.hnu.edu.cn/), China, in 2024, with a thesis on **multi-camera multi-object tracking** applied to track cycling events, developed during an exchange at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://ia.cas.cn/). I earned my **B.Eng.** in Vehicle Engineering from [Southwest Jiaotong University](https://www.swjtu.edu.cn/), China, in 2021.
+I received my **M.Eng.** in Mechanics from [Hunan University](https://en.wikipedia.org/wiki/Hunan_University), China, in 2024, with a thesis on **multi-camera multi-object tracking** applied to track cycling events, developed during an exchange at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences). I earned my **B.Eng.** in Vehicle Engineering from [Southwest Jiaotong University](https://en.wikipedia.org/wiki/Southwest_Jiaotong_University), China, in 2021.
 
 I thrive at the intersection of multiple disciplines!
 
@@ -21,6 +24,10 @@ I thrive at the intersection of multiple disciplines!
 <hr>
 
 ## Recent News
+
+2025-08-01
+
+Very happy that my first PhD work "Waymo-3DSkelMo: A Multi-Agent 3D Skeletal Motion Dataset for Pedestrian Interaction Modeling in Autonomous Driving" has been accepted to **ACM MM** (Dataset Track, Main Conference).
 
 2024-09-26
 
