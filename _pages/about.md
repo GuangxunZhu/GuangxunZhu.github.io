@@ -40,7 +40,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <font size=1>*: equal contribution, †: corresponding author.</font>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/dataset.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/dataset.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Waymo-3DSkelMo: A Multi-Agent 3D Skeletal Motion Dataset for
@@ -50,7 +50,8 @@ Pedestrian Interaction Modeling in Autonomous Driving](https://dl.acm.org/doi/10
 
 **Guangxun Zhu**, Shiyu Fan, Hang Dai, Edmond S. L. Ho†
 
-[\[arXiv\]](https://arxiv.org/abs/2508.09404)|[\[Code & Dataset\]](https://github.com/GuangxunZhu/Waymo-3DSkelMo)|[\[Video\]](https://www.youtube.com/watch?v=HpEj48uxiW4&list=LL)
+
+[\[arXiv\]](https://arxiv.org/abs/2508.09404) [\[Code & Dataset\]](https://github.com/GuangxunZhu/Waymo-3DSkelMo) [\[Video\]](https://www.youtube.com/watch?v=HpEj48uxiW4&list=LL)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
