@@ -32,11 +32,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Very happy that my first PhD work has been accepted to **ACM MM** (Dataset Track, Main Conference).
+- *2025.08*: &nbsp;🎉🎉 Very happy that my first PhD work has been accepted to **ACM MM 2025** (Dataset Track).
 
 - *2024.09*: &nbsp;🎉🎉 I had a pleasant discussion with [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://dai-hang.github.io) and officially joined Edmond's group as a Ph.D. student.
 
 # 📝 Publications 
+
+<font size=1>*: equal contribution, †: corresponding author.</font>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/dataset.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,9 +48,9 @@ Pedestrian Interaction Modeling in Autonomous Driving](https://dl.acm.org/doi/10
 
 *ACM International Conference on Multimedia 2025* (**ACM MM 2025**) – Dataset Track
 
-**Guangxun Zhu**, Shiyu Fan, Hang Dai, Edmond S. L. Ho
+**Guangxun Zhu**, Shiyu Fan, Hang Dai, Edmond S. L. Ho†
 
-[**arXiv**](https://arxiv.org/abs/2508.09404) | [**Code & Dataset**](https://github.com/GuangxunZhu/Waymo-3DSkelMo) | [**Video**](https://www.youtube.com/watch?v=HpEj48uxiW4&list=LL)
+[\[**arXiv**\]](https://arxiv.org/abs/2508.09404) | [\[**Code & Dataset**\]](https://github.com/GuangxunZhu/Waymo-3DSkelMo) | [\[**Video**\]](https://www.youtube.com/watch?v=HpEj48uxiW4&list=LL)
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -67,13 +69,13 @@ Pedestrian Interaction Modeling in Autonomous Driving](https://dl.acm.org/doi/10
 
 - *2021.09 – 2024.06*: Master, [Hunan University](http://www.hnu.edu.cn/), Changsha, China     
 
-- *2017.09 – 2021.06*: B.Eng, [Southwest Jiaotong University](https://www.swjtu.edu.cn/) (211 Project)Chengdu, China 
+- *2017.09 – 2021.06*: B.Eng, [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Chengdu, China 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Experience
+# 💻 Experiences
 - *2022.06 - 2023.09*, Research Assistant, [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences), China.
 
 # 🎖 Honors and Awards
@@ -98,6 +100,6 @@ Honors
 - Merit Student, Southwest Jiaotong University, 2020
 - Excellent Student Cadre, Southwest Jiaotong University, 2018&2019
 
-<!-- # 💬 Invited Talks -->
+# 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
