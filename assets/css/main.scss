@@ -42,7 +42,7 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;   // 改成 flex-start，避免 left 无效
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -64,24 +64,26 @@
     .paper-box-text{
         max-width: 70%;  // 改成剩余的 70%
         order: 1;
+        text-align: left;  // 确保文字左对齐
     }
     
     @include breakpoint($medium) {
         .paper-box-image{
-            justify-content: left;
+            justify-content: flex-start; // 避免居中
             min-width: 200px;
-            max-width: 30%;  // 改成 30%
+            max-width: 30%;  // 保持 30%
             order: 1;
         }
         
         .paper-box-text{
-            justify-content: left;
+            justify-content: flex-start; // 避免居中
             padding-left: 2em;
-            max-width: 70%;  // 改成 70%
+            max-width: 70%;  // 保持 70%
             order: 2;
         }
     }
 }
+
 
 
 $scroll_offset : 2em;
@@ -103,4 +105,15 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+/* webkit, opera, IE9 （谷歌浏览器）*/
+::selection { 
+    background:aliceblue;
+    color: black;
+}
+/* mozilla firefox（火狐浏览器） */
+::-moz-selection { 
+    background:aliceblue;
+    color: black;
 }
