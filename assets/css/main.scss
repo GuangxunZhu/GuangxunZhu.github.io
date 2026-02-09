@@ -84,6 +84,10 @@
     }
 }
 
+.clustrmaps-wrap{
+  max-width: 260px;   /* 你想放侧边栏就调小，比如 220 */
+  margin: 16px auto;  /* 居中 */
+}
 
 
 $scroll_offset : 2em;

@@ -31,12 +31,25 @@ I thrive at the intersection of multiple disciplines!
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Very happy that my first PhD work has been accepted to **ACM MM 2025** (Dataset Track).
+# News
+- *2025.02*: One paper is accepted by ICRA 2026.
+- *2025.08*: Very happy that my first PhD work has been accepted to **ACM MM 2025** (Dataset Track).
 
-- *2024.09*: &nbsp;🎉🎉 I had a pleasant discussion with [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://dai-hang.github.io) and officially joined Edmond's group as a Ph.D. student.
+- *2024.09*: I had a pleasant discussion with [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://dai-hang.github.io) and officially joined Edmond's group as a Ph.D. student.
 
-# 📝 Publications 
+# Map
+
+<div class="clustrmaps-wrap">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="https://clustrmaps.com/map_v2.js?d=xfHZrCwVWeTUpPyh_V2GIKfmaVidU6pmDdDrefgq0yE&cl=ffffff&w=a">
+  </script>
+</div>
+
+
+
+# Publications 
 
 <font size=1>*: equal contribution, †: corresponding author.</font>
 
@@ -61,7 +74,7 @@ Pedestrian Interaction Modeling in Autonomous Driving](https://dl.acm.org/doi/10
 
 
 
-# 📖 Educations
+# Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -75,10 +88,10 @@ Pedestrian Interaction Modeling in Autonomous Driving](https://dl.acm.org/doi/10
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Experiences
+# Experiences
 - *2022.06 - 2023.09*, Research Assistant, [Institute of Automation, Chinese Academy of Sciences (CASIA)](https://en.wikipedia.org/wiki/Chinese_Academy_of_Sciences), China.
 
-# 🎖 Honors and Awards
+# Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 Scholarship
@@ -100,6 +113,6 @@ Honors
 - Merit Student, Southwest Jiaotong University, 2020
 - Excellent Student Cadre, Southwest Jiaotong University, 2018&2019
 
-# 💬 Invited Talks
+# Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
