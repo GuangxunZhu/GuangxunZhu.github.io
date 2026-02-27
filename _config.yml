@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guanxun Zhu"
+title                    : "Guangxun Zhu"
 description              : "PhD Student at University of Glasgow | Research on Human Behavior Prediction in Autonomous Driving"
 repository               : "https://guangxunzhu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guanxun Zhu"
+  name             : "Guangxun Zhu"
   avatar           : "images/photography.png"
   bio              : "朱广勋"
   location         : "Glasgow, UK"
