@@ -32,7 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # News
-- *2025.02*: One paper is accepted by ICRA 2026.
+- *2026.02*: We are organising a workshop ([Workshop on Pedestrian Behaviour Prediction](https://workshop-pbp2026.github.io)) on **ICRA 2026**.
+- *2026.02*: One paper is accepted by **ICRA 2026**.
 - *2025.08*: Very happy that my first PhD work has been accepted to **ACM MM 2025** (Dataset Track).
 
 - *2024.09*: I had a pleasant discussion with [Dr. Edmond Shu-lim Ho](https://www.gla.ac.uk/schools/computing/staff/shulimho/) and [Dr. Hang Dai](https://dai-hang.github.io) and officially joined Edmond's group as a Ph.D. student.
