@@ -32,6 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # News
+- *2026.04*: **Waymo-3DSkelMo** is now available in the Waymo Open Dataset **Community Contributions**. [Download Link](https://console.cloud.google.com/storage/browser/waymo_open_dataset_3dskelmo;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)
+
 - *2026.02*: We are organising a workshop ([Workshop on Pedestrian Behaviour Prediction](https://workshop-pbp2026.github.io)) on **ICRA 2026**.
 - *2026.02*: One paper is accepted by **ICRA 2026**.
 - *2025.08*: Very happy that my first PhD work has been accepted to **ACM MM 2025** (Dataset Track).
