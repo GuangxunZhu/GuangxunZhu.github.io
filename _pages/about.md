@@ -130,7 +130,7 @@ Honors
 - Merit Student, Southwest Jiaotong University, 2020
 - Excellent Student Cadre, Southwest Jiaotong University, 2018&2019
 
-# Accademic Services
+# Academic Services
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
